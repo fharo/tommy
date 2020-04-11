@@ -1,0 +1,143 @@
+body{
+    background:#3CF;
+}body{
+    background:#3CF;
+}body{
+    background:#3CF;
+}body{
+    background:#3CF;
+} /*Bordes redondeados*/
+    -webkit-border-radius:10px;/*Para chrome y Safari*/
+    -moz-border-radius:10px;/*Para Firefox*/
+    -o-border-radius:10px;/*Para Opera*/
+    border-radius:10px;/*El estandar por defecto*/
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#CCC));/*Para chrome y Safari*/
+    /*Degradados*/
+    background-image: -moz-linear-gradient(top center, #FFF, #CCC);/*Para Firefox*/
+    background-image: -o-linear-gradient(top, #FFF, #CCC);/*Para Opera*/
+    background-image: linear-gradient(top, #FFF, #CCC);/*El estandar por defecto*/
+    overflow:hidden;
+    padding:10px;
+    width:950px;
+} /*Bordes redondeados*/
+    -webkit-border-radius:10px;/*Para chrome y Safari*/
+    -moz-border-radius:10px;/*Para Firefox*/
+    -o-border-radius:10px;/*Para Opera*/
+    border-radius:10px;/*El estandar por defecto*/
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#CCC));/*Para chrome y Safari*/
+    /*Degradados*/
+    background-image: -moz-linear-gradient(top center, #FFF, #CCC);/*Para Firefox*/
+    background-image: -o-linear-gradient(top, #FFF, #CCC);/*Para Opera*/
+    background-image: linear-gradient(top, #FFF, #CCC);/*El estandar por defecto*/
+    overflow:hidden;
+    padding:10px;
+    width:950px;
+}/*Bordes redondeados*/
+    -webkit-border-radius:10px;/*Para chrome y Safari*/
+    -moz-border-radius:10px;/*Para Firefox*/
+    -o-border-radius:10px;/*Para Opera*/
+    border-radius:10px;/*El estandar por defecto*/
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#CCC));/*Para chrome y Safari*/
+    /*Degradados*/
+    background-image: -moz-linear-gradient(top center, #FFF, #CCC);/*Para Firefox*/
+    background-image: -o-linear-gradient(top, #FFF, #CCC);/*Para Opera*/
+    background-image: linear-gradient(top, #FFF, #CCC);/*El estandar por defecto*/
+    overflow:hidden;
+    padding:10px;
+    width:950px;
+}#navbar{
+
+width:auto;
+
+height:36px;
+
+background:url(img/navbar-bg.png) left top repeat-x; }
+
+#navbar .inbar{
+
+display:block;
+
+height:36px;
+
+background:url(img/right-round.png) right top no-repeat; }
+
+#navbar ul, #navbar ul li{
+
+border:0px;
+
+margin:0px;
+
+padding:0px;
+
+list-style:none;
+
+height:36px;
+
+line-height:36px; } #navbar ul{
+
+background:url(img/left-round.png) left top no-repeat; }
+
+#navbar ul li{
+
+float:left;
+
+display:block;
+
+line-height:36px; }
+
+#navbar ul li a{
+
+color:#403e32;
+
+text-decoration:none;
+
+font-weight:bold;
+
+display:block; }
+
+#navbar ul li a span{
+
+padding:0 20px 0 0;
+
+height:36px;
+
+line-height:36px;
+
+display:block;
+
+margin-left:20px; }
+
+#navbar .navhome a, #navbar .navhome a:hover{
+
+background:url(img/a-bg.png) left top no-repeat;
+
+height:36px;
+
+line-height:36px; }
+
+#navbar .navhome a span, #navbar .navhome a:hover span{
+
+color:#FFFFFF;
+
+background:url(img/span-bg.png) right top no-repeat;
+
+height:36px;
+
+line-height:36px; }
+
+#navbar ul li a:hover{
+
+background:url(img/ahover-bg.png) left top no-repeat;
+
+height:36px;
+
+line-height:36px; }
+
+#navbar ul li a:hover span{
+
+background:url(img/spanhover-bg.png) right top no-repeat;
+
+height:36px;
+
+line-height:36px; }
+
